@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="colorRandom">
+        <item>@color/colorRed</item>
+        <item>@color/colorAccent</item>
+        <item>@color/colorSoftPurple</item>
+        <item>@color/colorPrimary</item>
+        <item>@color/colorAzure</item>
+        <item>@color/colorViolet</item>
+        <item>@color/colorMagenta</item>
+    </array>
+    <string-array name="menu">
+        <item>PLN</item>
+        <item>Phone Credit</item>
+        <item>Data Package</item>
+        <item>Postpaid Cellular</item>
+        <item>BPJS</item>
+        <item>OVO PayLater</item>
+        <item>Streaming</item>
+        <item>Other Products</item>
+    </string-array>
+</resources>
